@@ -39,8 +39,11 @@ article p {font-size: 1.6rem;}
 
 .card-flex{border: none;}
 .btn:focus{box-shadow: none;}
-
+.client-img img{width: 60%;}
+.logo {padding: 0;}
+.logo img {width:300px; height: auto;}
 .banner-text{font-size: 1.8rem; margin: 6rem 0;}
 .logo-bar{padding: 4rem 0;}
 
 footer{background-color: #484848; padding: 3rem; color: #fff}
+.footer-logo{width: 100px; height: auto;}
